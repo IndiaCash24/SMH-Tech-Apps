@@ -1,0 +1,6 @@
+{
+  "name": "SMH Tech Apps",
+  "description": "Professional App Deployment Solutions. Buy ready-made apps and source code instantly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
